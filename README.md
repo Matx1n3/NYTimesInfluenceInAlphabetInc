@@ -49,7 +49,8 @@ To create your own dataset, follow these steps:
    
 5. API Key configuration:
     
-    This step is necessary only if you set download_stock_data to True.
+   This step is necessary only if you set download_stock_data to True. However, as more news are published, stock prices informations must be updated.
+   Because of that, setting download_stock_data to True is recommended and therefore, also following these steps.
 
     To use Alpha Vantage's API for obtaining stock prices, you need to create a file named api_key.py in the src folder. Follow these steps:
 
@@ -69,7 +70,7 @@ To create your own dataset, follow these steps:
     3. **Save the File:**
         Save the api_key.py file.
 
-6. Run the Main Script:
+7. Run the Main Script:
     ```
     python3 src/main.py
     ```
