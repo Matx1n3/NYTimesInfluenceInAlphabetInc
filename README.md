@@ -3,7 +3,7 @@
 ##  Overview
 The dataset contains information on 178 news articles from The New York Times 
 related to Google. The class indicates the impact on the stock price of Alphabet, 
-Inc. (whose main subsidiary is Google) on the day the news article was published.
+Inc. (whose main subsidiary is Google) the day the news article was published.
 
 Class 0 indicates that the stock price decreased, by at least 2%. Class 1 indicates 
 that the stock price remained within ±2%, and Class 2 indicates that the stock price 
