@@ -1,4 +1,4 @@
 min_amount = 200
-dataset_filename = "../out/NYTimesInfluenceInAlphabetInc.csv"
+dataset_filename = "../NYTimesInfluenceInAlphabetInc.csv"
 download_stock_data = True
 percentage = 2
